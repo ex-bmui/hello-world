@@ -1,4 +1,2 @@
 # hello-world
-Just another repository
-Hi 
-This is test
+This is new file
